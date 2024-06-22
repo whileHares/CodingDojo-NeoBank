@@ -29,7 +29,7 @@ public class Sparkonto extends Konto {
 
     @Override
     public void kontostandAktualisieren() {
-        //TODO: Kontostand aktualisieren. Idee ist Nach ein und Auszahlung und Zinseingang den Kontostand zu aktualiseren.
+    
         //TODO: Sparziel definieren
         //TODO: einfach getKontostand und printen
     }
