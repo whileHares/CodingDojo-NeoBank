@@ -32,7 +32,6 @@ public class Investmentkonto extends Konto implements Zinsberechnung {
         }
     }
 
-    //TODO: Kontostand aktualisieren. Idee ist Nach ein und Auszahlung und Zinseingang den Kontostand zu aktualiseren.
     //TODO: Aktienliste erstellen
     //TODO: einfach getKontostand und printen
     //TODO: Zinsen
