@@ -29,7 +29,7 @@ public class Girokonto extends Konto implements Unterkonten, Zinsberechnung {
             throw new IllegalArgumentException("Ungültiger Einzahlungsbetrag.");
         }
     }
-    //TODO: Kontostand aktualisieren. Idee ist Nach ein und Auszahlung und Zinseingang den Kontostand zu aktualiseren.
+  
     //TODO: Zinsen und Unterkonten
     //TODO: einfach getKontostand und printen
 
