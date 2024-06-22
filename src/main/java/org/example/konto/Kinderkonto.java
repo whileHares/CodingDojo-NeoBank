@@ -32,7 +32,7 @@ public class Kinderkonto extends Konto{
             throw new IllegalArgumentException("Ungültiger Einzahlungsbetrag.");
         }
     }
-    //TODO: Kontostand aktualisieren. Idee ist Nach ein und Auszahlung und Zinseingang den Kontostand zu aktualiseren.
+   
     //TODO: einfach getKontostand und printen
     //TODO: Vormund
 
