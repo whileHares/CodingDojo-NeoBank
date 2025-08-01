@@ -1,1 +1,1 @@
-CodingDojo is an example project to show some basics of object-oriented programming with Java. CodingDojo simulates a Neo-Bank with some features like Pockets etc to learn Basics of Java 😁.
+CodingDojo is an example project to teach my students some basics of object-oriented programming with Java. CodingDojo simulates a Neo-Bank with some features like Pockets etc to learn Basics of Java.
